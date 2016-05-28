@@ -149,6 +149,33 @@ $("#elastic_grid_demo").elastic_grid({
 			    'large': ['img/portfolio/large/17.jpg', 'img/portfolio/large/18.jpg', 'img/portfolio/large/4.jpg', 'img/portfolio/large5.jpg', 'img/portfolio/large/3.jpg'],
 			    'button_list': [],
 			    'tags': ['evenement', 'Tout']
+			},
+
+			{
+			    'title': 'Strasbourg Fashion',
+			    'description': '',
+			    'thumbnail': ['img/portfolio/small/20.jpg', 'img/portfolio/small/21.jpg', 'img/portfolio/small/22.jpg', 'img/portfolio/small/23.jpg'],
+			    'large': ['img/portfolio/large/20.jpg', 'img/portfolio/large/21.jpg', 'img/portfolio/large/22.jpg', 'img/portfolio/large/23.jpg'],
+			    'button_list': [],
+			    'tags': ['evenement', 'Tout','selfie']
+			},
+
+			{
+			    'title': 'Strasbourg Fashion',
+			    'description': '',
+			    'thumbnail': ['img/portfolio/small/22.jpg', 'img/portfolio/small/21.jpg', 'img/portfolio/small/20.jpg', 'img/portfolio/small/23.jpg'],
+			    'large': ['img/portfolio/large/22.jpg', 'img/portfolio/large/21.jpg', 'img/portfolio/large/20.jpg', 'img/portfolio/large/23.jpg'],
+			    'button_list': [],
+			    'tags': ['evenement', 'Tout']
+			},
+
+			{
+			    'title': 'Strasbourg Fashion',
+			    'description': '',
+			    'thumbnail': ['img/portfolio/small/23.jpg', 'img/portfolio/small/21.jpg', 'img/portfolio/small/22.jpg', 'img/portfolio/small/20.jpg'],
+			    'large': ['img/portfolio/large/23.jpg', 'img/portfolio/large/21.jpg', 'img/portfolio/large/22.jpg', 'img/portfolio/large/20.jpg'],
+			    'button_list': [],
+			    'tags': ['evenement', 'Tout']
 			}
 	 
 		]
